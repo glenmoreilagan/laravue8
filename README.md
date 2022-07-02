@@ -1,3 +1,14 @@
+<p>FOR JWT TOKEN AUTH REFERENCE:</p>
+<p>https://www.youtube.com/watch?v=zvVoTmUm1nM</p>
+<p>https://www.youtube.com/watch?v=6eX9Pj-GhZs&t=806s</p>
+
+<p>RUN PUSHER</p>
+<p>https://dashboard.pusher.com/apps/1430496/getting_started</p>
+<p>composer require pusher/pusher-php-server</p>
+
+<p>YT REFERENCE FOR PUSHER</p>
+<p>https://www.youtube.com/watch?v=l44IF9fBNOs&t=505s</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
